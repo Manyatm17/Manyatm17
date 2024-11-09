@@ -3,4 +3,4 @@
 - 🌱 I’m currently learning DSA
 - 📫 How to reach me -> [![LinkedIn](https://img.shields.io/badge/LinkedIn-0073b1?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manya-t-m-6676712bb/)
 - 😄 Pronouns: She/Her 🎀
-- ⚡ Fun fact: 
+- ⚡ Fun fact: When I’m not working, I’m catching up on sleep, lost in music, or dreaming of Japan’s countryside. My trusty backpack is always by my side.
