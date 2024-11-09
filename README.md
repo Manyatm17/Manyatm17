@@ -1,0 +1,6 @@
+- 👋 Hi, I’m Manya
+- 👀 I’m interested in Front-end web developing
+- 🌱 I’m currently learning DSA
+- 📫 How to reach me -> [![LinkedIn](https://img.shields.io/badge/LinkedIn-0073b1?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manya-t-m-6676712bb/)
+- 😄 Pronouns: She/Her 🎀
+- ⚡ Fun fact: 
